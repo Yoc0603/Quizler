@@ -24,7 +24,18 @@ Quizzler-iOS13 is a simple True/False quiz app built using Swift and UIKit. It f
 
 - Swift  
 - UIKit  
-- Xcode (iOS 13 compatible)  
+- Xcode
 
 ## 🧪 Example Question
+
+Question: Oxygen is an element.
+Answer: True ✅
+
+
+## 📦 Installation
+
+To run this project:
+
+```bash
+git clone https://github.com/yourusername/Quizzler-iOS13.git
 
