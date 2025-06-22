@@ -38,7 +38,7 @@ Answer: True ✅
 To run this project:
 
 ```bash
-git clone https://github.com/yourusername/Quizzler-iOS13.git
+git clone https://github.com/Yoc0603/Quizzler-iOS13.git
 ```
 ## Author
 
